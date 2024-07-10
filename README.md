@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-#dashboard
-
 ## 1. vue脚手架安装
 ```
 npm install -g @vue/cli
